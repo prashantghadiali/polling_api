@@ -15,3 +15,8 @@ git clone https://github.com/prashantghadiali/polling_api.git .
 git install express cookie-parser body-parser express mongoose
 
 nodemon
+
+
+# deployed vercel link
+
+link : https://polling-api-nine.vercel.app
